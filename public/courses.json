@@ -1,0 +1,83 @@
+ [
+  {
+    "img": "https://www.virtualbeehive.com/wp-content/uploads/2019/08/logo-python.png",
+    "language": "Python",
+    "videos": 120,
+    "liveSessions": 21,
+    "assignments": 10,
+    "time": 6,
+    "price": 150
+  },
+  {
+    "img": "https://www.educationmesd.com/wp-content/uploads/2021/01/C.png",
+    "language": "C++",
+    "videos": 150,
+    "liveSessions": 23,
+    "assignments": 13,
+    "time": 8,
+    "price": 160
+  },
+  {
+    "img": "https://www.sam-solutions.com/blog/wp-content/uploads/2019/07/image-recognition-C-programming-language.jpg",
+    "language": "C",
+    "videos": 100,
+    "liveSessions": 25,
+    "assignments": 14,
+    "time": 8,
+    "price": 170
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+    "language": "JavaScript",
+    "videos": 110,
+    "liveSessions": 18,
+    "assignments": 12,
+    "time": 5,
+    "price": 120
+  },
+  {
+    "img": "https://yourbasic.org/golang/square-gopher.png",
+    "language": "Go",
+    "videos": 115,
+    "liveSessions": 19,
+    "assignments": 12,
+    "time": 5,
+    "price": 100
+  },
+  {
+    "img": "https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp-1536x864.png",
+    "language": "C#",
+    "videos": 117,
+    "liveSessions": 19,
+    "assignments": 12,
+    "time": 5,
+    "price": 130
+  },
+  {
+    "img": "https://pngimg.com/uploads/php/php_PNG26.png",
+    "language": "PHP",
+    "videos": 130,
+    "liveSessions": 23,
+    "assignments": 13,
+    "time": 6,
+    "price": 140
+  },
+  {
+    "img": "https://bigdataanalyticsnews.com/wp-content/uploads/2018/01/r-language.jpg",
+    "language": "R",
+    "videos": 132,
+    "liveSessions": 20,
+    "assignments": 13,
+    "time": 4.5,
+    "price": 130
+  },
+  {
+    "img": "https://www.appmonks.net/img/post/object-c.png",
+    "language": "Objective C",
+    "videos": 121,
+    "liveSessions": 16,
+    "assignments": 11,
+    "time": 5,
+    "price": 140
+  }
+]

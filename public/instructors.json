@@ -1,0 +1,18 @@
+ [
+  {
+    "name": "Ryan Dahl",
+    "description": "He is the node JS creator. After working on the Node project since 2009, Dahl announced in January, 2012 that he would step away from the project and turn over the reins to NPM creator and former Joyent employee Isaac Z. Schlueter."
+  },
+  {
+    "name": "Kalam Uddin",
+    "description": "Kalam is specialized in C++. He has degrees from reputed universities. He is currently working in Microsoft."
+  },
+  {
+    "name": "Jamal Uddin",
+    "description": "Jamal is a renowned programmer from United Kingdom. He is currently working as an Java Programmer. He has almost 1000+ students. His teaching skill is so good."
+  },
+  {
+    "name": "Rakib Hassan",
+    "description": "Rakib Hassan is a JS lover. He also knows Python. Worked in 120+ projects."
+  }
+]
